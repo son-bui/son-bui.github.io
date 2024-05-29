@@ -127,6 +127,8 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/documentary/feature
 
+@cheapflightclient/cheapflight/flight-departure-info/feature
+
 @cheapflightclient/cheapflight/general/data-access
 
 @cheapflightclient/cheapflight/general/feature
