@@ -173,6 +173,8 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/remark-booking/feature
 
+@cheapflightclient/cheapflight/rerouting/feature
+
 @cheapflightclient/cheapflight/role-manage/data-access
 
 @cheapflightclient/cheapflight/role-manage/feature
