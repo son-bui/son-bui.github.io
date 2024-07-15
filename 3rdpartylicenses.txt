@@ -75,6 +75,10 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflight/cheapflight-ui
 
+@cheapflightclient/cheapflight/add-journey/data-access
+
+@cheapflightclient/cheapflight/add-journey/feature
+
 @cheapflightclient/cheapflight/auth/account-verify/data-access
 
 @cheapflightclient/cheapflight/auth/account-verify/feature
