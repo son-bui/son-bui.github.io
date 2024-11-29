@@ -141,12 +141,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/general/feature
 
-@cheapflightclient/cheapflight/hunt-ticket-advanced/data-access
-
-@cheapflightclient/cheapflight/hunt-ticket-advanced/feature
-
-@cheapflightclient/cheapflight/hunt-ticket-advanced/ui
-
 @cheapflightclient/cheapflight/layouts/admin-layout/feature
 
 @cheapflightclient/cheapflight/layouts/auth-layout/feature
