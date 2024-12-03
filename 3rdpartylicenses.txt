@@ -123,6 +123,18 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/booking-success/ui
 
+@cheapflightclient/cheapflight/btc-search-flight-result/data-access
+
+@cheapflightclient/cheapflight/btc-search-flight-result/feature
+
+@cheapflightclient/cheapflight/btc-search-flight-result/ui
+
+@cheapflightclient/cheapflight/btc-search-flight/data-access
+
+@cheapflightclient/cheapflight/btc-search-flight/feature
+
+@cheapflightclient/cheapflight/btc-search-flight/ui
+
 @cheapflightclient/cheapflight/change-password/feature
 
 @cheapflightclient/cheapflight/common-ui/ui
@@ -141,9 +153,17 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/general/feature
 
+@cheapflightclient/cheapflight/hunt-ticket-advanced/data-access
+
+@cheapflightclient/cheapflight/hunt-ticket-advanced/feature
+
+@cheapflightclient/cheapflight/hunt-ticket-advanced/ui
+
 @cheapflightclient/cheapflight/layouts/admin-layout/feature
 
 @cheapflightclient/cheapflight/layouts/auth-layout/feature
+
+@cheapflightclient/cheapflight/layouts/blank-layout/feature
 
 @cheapflightclient/cheapflight/link/data-access
 
