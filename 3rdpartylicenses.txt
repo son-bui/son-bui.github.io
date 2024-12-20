@@ -123,10 +123,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/booking-success/ui
 
-@cheapflightclient/cheapflight/btc-order-lookup/data-access
-
-@cheapflightclient/cheapflight/btc-order-lookup/feature
-
 @cheapflightclient/cheapflight/btc-search-flight-result/data-access
 
 @cheapflightclient/cheapflight/btc-search-flight-result/feature
