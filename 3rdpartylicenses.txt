@@ -165,9 +165,13 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/flight-departure-info/feature
 
+@cheapflightclient/cheapflight/footer-btc/feature
+
 @cheapflightclient/cheapflight/general/data-access
 
 @cheapflightclient/cheapflight/general/feature
+
+@cheapflightclient/cheapflight/header-btc/feature
 
 @cheapflightclient/cheapflight/hunt-ticket-advanced/data-access
 
