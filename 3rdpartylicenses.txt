@@ -151,6 +151,10 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/btc-service-fee-manage/feature
 
+@cheapflightclient/cheapflight/btc-time-config-auto-ticket-time/data-access
+
+@cheapflightclient/cheapflight/btc-time-config-auto-ticket-time/feature
+
 @cheapflightclient/cheapflight/btc-transaction-history/data-access
 
 @cheapflightclient/cheapflight/btc-transaction-history/feature
