@@ -123,44 +123,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/booking-success/ui
 
-@cheapflightclient/cheapflight/btc-discount-manage/data-access
-
-@cheapflightclient/cheapflight/btc-discount-manage/feature
-
-@cheapflightclient/cheapflight/btc-order-lookup/data-access
-
-@cheapflightclient/cheapflight/btc-order-lookup/feature
-
-@cheapflightclient/cheapflight/btc-order-management/data-access
-
-@cheapflightclient/cheapflight/btc-order-management/feature
-
-@cheapflightclient/cheapflight/btc-order-management/ui
-
-@cheapflightclient/cheapflight/btc-search-flight-result/data-access
-
-@cheapflightclient/cheapflight/btc-search-flight-result/feature
-
-@cheapflightclient/cheapflight/btc-search-flight-result/ui
-
-@cheapflightclient/cheapflight/btc-search-flight/data-access
-
-@cheapflightclient/cheapflight/btc-search-flight/feature
-
-@cheapflightclient/cheapflight/btc-search-flight/ui
-
-@cheapflightclient/cheapflight/btc-service-fee-manage/feature
-
-@cheapflightclient/cheapflight/btc-time-config-auto-ticket-time/data-access
-
-@cheapflightclient/cheapflight/btc-time-config-auto-ticket-time/feature
-
-@cheapflightclient/cheapflight/btc-transaction-history/data-access
-
-@cheapflightclient/cheapflight/btc-transaction-history/feature
-
-@cheapflightclient/cheapflight/btc-transaction-history/ui
-
 @cheapflightclient/cheapflight/change-password/feature
 
 @cheapflightclient/cheapflight/common-ui/ui
@@ -175,13 +137,9 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/flight-departure-info/feature
 
-@cheapflightclient/cheapflight/footer-btc/feature
-
 @cheapflightclient/cheapflight/general/data-access
 
 @cheapflightclient/cheapflight/general/feature
-
-@cheapflightclient/cheapflight/header-btc/feature
 
 @cheapflightclient/cheapflight/hunt-ticket-advanced/data-access
 
@@ -192,8 +150,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 @cheapflightclient/cheapflight/layouts/admin-layout/feature
 
 @cheapflightclient/cheapflight/layouts/auth-layout/feature
-
-@cheapflightclient/cheapflight/layouts/blank-layout/feature
 
 @cheapflightclient/cheapflight/link/data-access
 
@@ -228,8 +184,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 @cheapflightclient/cheapflight/promotion-manage/feature
 
 @cheapflightclient/cheapflight/promotion-manage/ui
-
-@cheapflightclient/cheapflight/recaptcha/data-access
 
 @cheapflightclient/cheapflight/remark-booking/feature
 
