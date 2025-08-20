@@ -127,6 +127,12 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/common-ui/ui
 
+@cheapflightclient/cheapflight/config-plugin/data-access
+
+@cheapflightclient/cheapflight/config-plugin/feature
+
+@cheapflightclient/cheapflight/config-plugin/ui
+
 @cheapflightclient/cheapflight/discount-fee/data-access
 
 @cheapflightclient/cheapflight/discount-fee/feature
