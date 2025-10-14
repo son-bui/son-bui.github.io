@@ -127,6 +127,10 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/common-ui/ui
 
+@cheapflightclient/cheapflight/config-fare-rule/data-access
+
+@cheapflightclient/cheapflight/config-fare-rule/feature
+
 @cheapflightclient/cheapflight/config-plugin/data-access
 
 @cheapflightclient/cheapflight/config-plugin/feature
@@ -168,8 +172,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 @cheapflightclient/cheapflight/manage-identity-provider/data-access
 
 @cheapflightclient/cheapflight/manage-identity-provider/feature
-
-@cheapflightclient/cheapflight/manage-order-bc/feature
 
 @cheapflightclient/cheapflight/manage-payment-method/data-access
 
