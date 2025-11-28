@@ -173,6 +173,10 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @cheapflightclient/cheapflight/manage-identity-provider/feature
 
+@cheapflightclient/cheapflight/manage-order-bc/data-access
+
+@cheapflightclient/cheapflight/manage-order-bc/feature
+
 @cheapflightclient/cheapflight/manage-payment-method/data-access
 
 @cheapflightclient/cheapflight/manage-payment-method/feature
